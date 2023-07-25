@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.7.22)  24 JUL 2023 19:29
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.7.22)  24 JUL 2023 22:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -797,6 +797,8 @@ e.g., type `I\font<same font id>=<substitute font name>'.
 
 Missing character: There is no  ("F095) in font nullfont!
 Missing character: There is no  ("F003) in font nullfont!
+Missing character: There is no  ("F09B) in font nullfont!
+Missing character: There is no  ("F0E1) in font nullfont!
 
 Overfull \hbox (1.46pt too wide) in paragraph at lines 83--84
 []$[]$ $[]$$[]$
@@ -830,7 +832,7 @@ Overfull \hbox (30.3219pt too wide) in alignment at lines 3--19
  []
 
 ) (./resume/experience.tex
-Overfull \hbox (2.92001pt too wide) in paragraph at lines 17--34
+Overfull \hbox (2.92001pt too wide) in paragraph at lines 16--33
    [] 
  []
 
