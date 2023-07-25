@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.7.22)  24 JUL 2023 22:14
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.7.22)  25 JUL 2023 07:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -244,59 +244,18 @@ LaTeX Info: Redefining \] on input line 2954.
 \g__um_fonts_used_int=\count292
 \l__um_primecount_int=\count293
 \g__um_primekern_muskip=\muskip17
- (/usr/share/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex))) (/usr/share/texmf-dist/tex/latex/fontawesome/fontawesome.sty
-Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
+ (/usr/share/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex))) (/usr/share/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
+Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
+ (/usr/share/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty
+Package: fontawesome5-utex-helper 2022/05/02 v5.15.4 uTeX helper for fontawesome5
+LaTeX Font Info:    Trying to load font information for TU+fontawesomefree on input line 69.
+ (/usr/share/texmf-dist/tex/latex/fontawesome5/tufontawesomefree.fd)
+LaTeX Font Info:    Trying to load font information for TU+fontawesomebrands on input line 70.
+ (/usr/share/texmf-dist/tex/latex/fontawesome5/tufontawesomebrands.fd))) (/usr/share/texmf-dist/tex/latex/roboto/roboto.sty
+Package: roboto 2022/09/10 (Bob Tennent) Supports Roboto fonts for all LaTeX engines.
  (/usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (/usr/share/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex)
-
-/usr/share/texmf-dist/tex/latex/fontawesome/fontawesome.sty:46: Package fontspec Error: The font "FontAwesome" cannot be found.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.46 
-     
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-/usr/share/texmf-dist/tex/latex/fontawesome/fontawesome.sty:46: Package fontspec Error: The font "FontAwesome" cannot be found.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.46 
-     
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-
-/usr/share/texmf-dist/tex/latex/fontawesome/fontawesome.sty:46: Package fontspec Error: The font "FontAwesome" cannot be found.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.46 
-     
-
-A font might not be found for many reasons.
- Check the spelling, where the font is installed etc. etc.
-
- When in doubt, ask someone for help!
-
-
-(/usr/share/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex)) (/usr/share/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty
-Package: sourcesanspro 2018/05/19 v2.7 Adobe's Source Sans Pro typeface
- (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+) (/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
  (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks26
@@ -304,11 +263,15 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 )
 \XKV@depth=\count294
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
+)) (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/SourceSansPro(1)/m/n on input line 123.
+(Font)                  OT1/cmss/m/n --> TU/Roboto(1)/m/n on input line 150.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/SourceSansPro(1)/bx/n on input line 123.
+(Font)                  OT1/cmss/bx/n --> TU/Roboto(1)/bx/n on input line 150.
+) (/usr/share/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty
+Package: sourcesanspro 2018/05/19 v2.7 Adobe's Source Sans Pro typeface
 ) (/usr/share/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2023/02/12 version 6.0.1 text color boxes
  (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
@@ -589,6 +552,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4060.
+Package hyperref Info: Option `pdfpagelabels' set `false' on input line 4060.
 Package hyperref Info: Hyper figures OFF on input line 4177.
 Package hyperref Info: Link nesting OFF on input line 4182.
 Package hyperref Info: Hyper index ON on input line 4185.
@@ -622,9 +586,8 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count326
-\c@Item=\count327
-\c@Hfootnote=\count328
+\c@Item=\count326
+\c@Hfootnote=\count327
 )
 Package hyperref Info: Driver (autodetected): hxetex.
  (/usr/share/texmf-dist/tex/latex/hyperref/hxetex.def
@@ -633,10 +596,10 @@ File: hxetex.def 2023-02-07 v7.00v Hyperref driver for XeTeX
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \pdfm@box=\box77
-\c@Hy@AnnotLevel=\count329
-\HyField@AnnotCount=\count330
-\Fld@listcount=\count331
-\c@bookmark@seq@number=\count332
+\c@Hy@AnnotLevel=\count328
+\HyField@AnnotCount=\count329
+\Fld@listcount=\count330
+\c@bookmark@seq@number=\count331
  (/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
@@ -648,27 +611,15 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip82
-)
-
-./awesome-cv.cls:165: LaTeX cmd Error: Command '\FA' already defined.
-
-For immediate help type H <return>.
- ...                                              
-                                                  
-l.165 \newfontfamily
-                    \headerfont[
-
-You have used \NewDocumentCommand with a command that already has a
-definition.
-
-The existing definition of '\FA' will not be altered.
-
-
-)
+) (/usr/share/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+ (/usr/share/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
+File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
+\BKM@id=\count332
+)))
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 10.95pt on input line 79.
-
-No file resume.aux.
+ (./resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
@@ -691,6 +642,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
 LaTeX Font Info:    ... okay on input line 79.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
 LaTeX Font Info:    ... okay on input line 79.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -698,16 +650,16 @@ LaTeX Font Info:    ... okay on input line 79.
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: includehead 
+* modes: 
 * h-part:(L,W,R)=(39.83368pt, 517.84052pt, 39.83368pt)
 * v-part:(T,H,B)=(22.76228pt, 771.06952pt, 51.21504pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=517.84052pt
-* \textheight=734.06952pt
+* \textheight=771.06952pt
 * \oddsidemargin=-32.43631pt
 * \evensidemargin=-32.43631pt
-* \topmargin=-49.5077pt
+* \topmargin=-86.5077pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -760,12 +712,6 @@ LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 79.
 Package hyperref Info: Link coloring OFF on input line 79.
-\@outlinefile=\write4
-\openout4 = `resume.out'.
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 \headertextwidth=\skip83
 \headerphotowidth=\skip84
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -780,25 +726,22 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 7.66417pt on input line 83.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.47441pt on input line 83.
+LaTeX Font Info:    Font shape `TU/Roboto(5)/m/n' will be
+(Font)              scaled to size 32.0pt on input line 83.
+LaTeX Font Info:    Font shape `TU/Roboto(1)/m/n' will be
+(Font)              scaled to size 32.0pt on input line 83.
+LaTeX Font Info:    Font shape `TU/Roboto(1)/b/n' will be
+(Font)              scaled to size 32.0pt on input line 83.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 16.0pt on input line 83.
+(Font)              scaled to size 7.6pt on input line 83.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 16.0pt on input line 83.
-/var/home/user/Documents/Code/Resume/Resume/resume.tex:83: Font TU/FontAwesome(0)/m/n/10=FontAwesome at 10.0pt not loadable: Metric (TFM) file or installed font not found.
-<to be read again> 
-                   relax 
-l.83 \makecvheader[C]
-                     
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-Missing character: There is no  ("F095) in font nullfont!
-Missing character: There is no  ("F003) in font nullfont!
-Missing character: There is no  ("F09B) in font nullfont!
-Missing character: There is no  ("F0E1) in font nullfont!
+(Font)              scaled to size 7.6pt on input line 83.
+LaTeX Font Info:    Font shape `TU/Roboto(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 83.
+LaTeX Font Info:    Font shape `TU/Roboto(1)/m/it' will be
+(Font)              scaled to size 8.0pt on input line 83.
+LaTeX Font Info:    Font shape `TU/Roboto(1)/m/n' will be
+(Font)              scaled to size 6.8pt on input line 83.
 
 Overfull \hbox (1.46pt too wide) in paragraph at lines 83--84
 []$[]$ $[]$$[]$
@@ -810,51 +753,45 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--84
  []
 
 (./resume/education.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 16.0pt on input line 1.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 (Font)              scaled to size 16.0pt on input line 1.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 14.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
-(Font)              scaled to size 12.0pt on input line 14.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 14.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <10> not available
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 14.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 14.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not available
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 14.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 14.
+(Font)              scaled to size 9.0pt on input line 14.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 14.
+(Font)              scaled to size 8.0pt on input line 14.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 14.
+(Font)              scaled to size 8.0pt on input line 14.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 14.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not available
+(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 14.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
+(Font)              scaled to size 8.0pt on input line 14.
 ) (./resume/skills.tex
-Overfull \hbox (30.3219pt too wide) in alignment at lines 3--19
+Overfull \hbox (19.4079pt too wide) in alignment at lines 3--19
 [] [] 
  []
 
-) (./resume/experience.tex
-Overfull \hbox (2.92001pt too wide) in paragraph at lines 16--33
-   [] 
- []
+) (./resume/experience.tex) (./resume/projects.tex) [1
 
-) (./resume/projects.tex) [1
-
-] (./resume.aux)
-
-Package rerunfilecheck Warning: File `resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
- ) 
+] (./resume.aux) ) 
 Here is how much of TeX's memory you used:
- 32559 strings out of 478682
- 660766 string characters out of 5849665
- 1872018 words of memory out of 5000000
- 52140 multiletter control sequences out of 15000+600000
- 514899 words of font info for 98 fonts, out of 8000000 for 9000
+ 33365 strings out of 478682
+ 678977 string characters out of 5849665
+ 1874018 words of memory out of 5000000
+ 52891 multiletter control sequences out of 15000+600000
+ 515131 words of font info for 127 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 114i,11n,118p,584b,499s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 114i,11n,127p,604b,501s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on resume.pdf (1 page).
